@@ -1,1 +1,0 @@
-document.getElementById('para').textContent = 'I am Navneet Kaur.';
